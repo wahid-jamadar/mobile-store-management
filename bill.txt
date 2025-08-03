@@ -1,0 +1,23 @@
+=========== BILL RECEIPT ===========
+Product              Qty        Subtotal  
+Iphone Adapter (Original) 1          ₹2000.00   
+Iphone Charging Cable 1          ₹1800.00   
+
+Subtotal: Rs.3800.00
+GST (18%): Rs684.00
+Total Amount: Rs4484.00
+====================================
+
+------------------------------------------
+         NEW BILL - Mobile Store
+------------------------------------------
+=========== BILL RECEIPT ===========
+Product              Qty        Subtotal  
+SanDisk Pendrive (32 GB) 1          ₹600.00    
+
+Subtotal: Rs.600.00
+GST (18%): Rs108.00
+Total Amount: Rs708.00
+====================================
+------------------------------------------
+
